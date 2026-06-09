@@ -1,0 +1,44 @@
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+.venv/
+Venv/
+venv/
+env/
+
+# Variaveis de ambiente
+.env
+
+# Cache do pytest
+.pytest_cache/
+pytest-cache-files-*/
+
+# Arquivos temporarios
+.tmp/
+
+# IDEs
+.vscode/
+.idea/
+
+# Builds e distribuicao
+dist/
+build/
+*.egg-info/
+
+
+.logs/
+dist/
+dist-electron/
+build/
+out/
+node_modules/
+
+*.exe
+*.dll
+*.7z
+*.zip
+
+.DS_Store
